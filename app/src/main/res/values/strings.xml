@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AssignmentTechVista</string>
+
+    <string name="something_wrong">Something went wrong. Try Again!</string>
+    <string name="please_wait">Please wait</string>
+
+    <string name="title">Title:</string>
+    <string name="body">Body:</string>
+
+    <string name="check_internet_connection">Check internet connection</string>
+</resources>
